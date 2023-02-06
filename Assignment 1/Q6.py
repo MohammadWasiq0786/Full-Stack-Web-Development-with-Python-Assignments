@@ -2,6 +2,6 @@
 
 print("MySirG")
 
-Print("OR")
+print("OR")
 
 print("\"MySirG\"")
