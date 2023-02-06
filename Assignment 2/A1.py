@@ -1,0 +1,1 @@
+x= 'This x variable in A1.py file'
